@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69a5bd49-ae09-4727-9082-ff125e7b864b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="loadTriangle-implements" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CandiceJin1204&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CandiceJin1204/NumberTriangle.git&quot;,
+    &quot;accountId&quot;: &quot;15f68de7-bcb5-4091-ab9c-61be634b708b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33CWmW9io402qfh6AejyCZME2vs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.NumberTriangle.executor": "Run",
+    "JUnit.NumberTriangleTest.aliasingTree.executor": "Run",
+    "JUnit.NumberTriangleTest.bigTreeLeftMost.executor": "Run",
+    "JUnit.NumberTriangleTest.littleTree.executor": "Run",
+    "JUnit.NumberTriangleTest.retrieveTreeBasic.executor": "Run",
+    "JUnit.NumberTriangleTest.rootTree.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.NumberTriangleTest.bigTreeLeftMost">
+    <configuration name="NumberTriangleTest.aliasingTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumberTriangle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberTriangleTest" />
+      <option name="METHOD_NAME" value="aliasingTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTriangleTest.bigTreeLeftMost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumberTriangle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberTriangleTest" />
+      <option name="METHOD_NAME" value="bigTreeLeftMost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTriangleTest.littleTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumberTriangle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberTriangleTest" />
+      <option name="METHOD_NAME" value="littleTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTriangleTest.retrieveTreeBasic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumberTriangle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberTriangleTest" />
+      <option name="METHOD_NAME" value="retrieveTreeBasic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTriangleTest.rootTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumberTriangle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberTriangleTest" />
+      <option name="METHOD_NAME" value="rootTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberTriangleTest.rootTree" />
+        <item itemvalue="JUnit.NumberTriangleTest.retrieveTreeBasic" />
+        <item itemvalue="JUnit.NumberTriangleTest.littleTree" />
+        <item itemvalue="JUnit.NumberTriangleTest.bigTreeLeftMost" />
+        <item itemvalue="JUnit.NumberTriangleTest.aliasingTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a5bd49-ae09-4727-9082-ff125e7b864b" name="Changes" comment="" />
+      <created>1758821693454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758821693454</updated>
+    </task>
+    <servers />
+  </component>
+</project>
